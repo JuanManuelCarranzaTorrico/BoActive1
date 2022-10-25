@@ -1,0 +1,35 @@
+
+
+
+#map { height: 600px; }
+
+.leaflet-popup-content img{
+    width: 100%;
+}
+
+.popup-title{
+    font-size: 20px;
+}
+
+.title{
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.map-container{
+    border: 5px solid #85cbcc;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.bo-info {
+    background-color: #85cbcc;
+    border-color: #85cbcc;
+    color: #fff;
+}
+
+
+.bo-info:hover {
+    background-color: #fff;
+    border-color: #85cbcc;
+    color: #85cbcc;
+}

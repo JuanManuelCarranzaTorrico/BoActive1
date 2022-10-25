@@ -1,0 +1,43 @@
+body{
+    background-color: #F9E2AE;
+}
+#imagenLogo{
+    width: 350px;
+    height: 400px;
+}
+
+#image{
+    /*background: url(../../../assets/La_Paz_Skyline.jpg);*/
+    /* background-color: #85CBCC; */
+    height: max-content;
+    width: 100%;
+    
+}
+#part1{
+    /*background-color: #CEA660;*/
+    align-content: center;
+}
+#title1{
+    color: #BCC;
+}
+#slogan{
+    color: #85CBCC;
+}
+#card1{
+    background-color: #A7D676;
+    width: 350px;
+    
+}
+#card2{
+    background-color:#85CBCC
+}
+#card1-text{
+    color: #FFFFFF;
+}
+#card1-image{
+   
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
